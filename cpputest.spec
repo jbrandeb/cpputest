@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name: cpputest
-Version: 3.8.0+
+Version: 3.8
 Release: 0
 Summary: C/C++ based unit test framework
 License: BSD-3-Clause
