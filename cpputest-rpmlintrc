@@ -1,0 +1,3 @@
+# templates
+addFilter("cpputest.* devel-file-in-non-devel-package")
+
